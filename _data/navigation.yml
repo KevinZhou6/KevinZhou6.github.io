@@ -21,7 +21,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /assets/Zhoutianyi_CV.pdf
+    url: /cv
     
   - title: "Guide"
     url: /markdown/
