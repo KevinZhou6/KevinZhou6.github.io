@@ -12,6 +12,6 @@ Hello, I'm currently a fourth year undergraduate student from [School of Compute
 Currently, I was supervised by [Prof. Ding Ding](https://cse.seu.edu.cn/_s191/2020/0913/c23024a345537/page.psp) from [School of Computer Science and Engineering](https://cse.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/).
 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Tianyi Zhou's Curriculum Vitae](https://github.com/KevinZhou6/KevinZhou6.github.io/blob/master/assets/Zhoutianyi_CV.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+
