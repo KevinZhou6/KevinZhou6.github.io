@@ -10,8 +10,8 @@
 locale                   : #
 title                    : "Zhou Tianyi's Personal Homepage"
 title_separator          : "-"
-name                     : # 
-description              : #on"
+name                     : &name "Zhou Tianyi"
+description              : &description "a fourth year undergraduate student from Southeast University"
 url                      : https://kevinzhou6.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #
 repository               : "KevinZhou6/kevinZhou6.github.io"
