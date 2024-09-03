@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a fourth year undergraduate student from [School of Computer Science and Engineering](https://cse.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/). My research interest includes Computer Vision, Affective Brain-Computer Interfaces, Deep Learning, Virtual Reality.
+Hello, I'm currently a fourth year undergraduate student from [School of Computer Science and Engineering](https://cse.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/). My research interest includes Computer Vision, Affective Brain-Computer Interfaces, Deep Learning, Virtual Reality.
 
 Currently, I was supervised by [Prof. Ding Ding](https://cse.seu.edu.cn/_s191/2020/0913/c23024a345537/page.psp) from [School of Computer Science and Engineering](https://cse.seu.edu.cn/main.htm), [Southeast University](https://www.seu.edu.cn/).
 
