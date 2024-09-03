@@ -3,8 +3,9 @@ title: "Study on the Influence of Embodied Avatars on Gait Parameters in Virtual
 authors: Tianyi Zhou, Ding Ding*, Shengyu Wang,Chuhan Shi,Xiangyu Xu
 collection: publications
 category: conferences
-collection: IEEE International Conference on Systems, Man, and Cybernetics(2024)
 permalink: /publication/2009-10-01-paper-title-number-1
+date: 2024-10
+venue: IEEE International Conference on Systems, Man, and Cybernetics(2024)
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
