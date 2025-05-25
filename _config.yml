@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haoxuan Ma"
+title                    : "Tianyi Zhou"
 description              : ""
-repository               : "Hunter-Wrynn/Hunter-Wrynn.github.io"
+repository               : "KevinZhou6/KevinZhou6.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haoxuan Ma \n 马浩轩"
+  name             : "Tianyi Zhou \n 周天逸"
   avatar           : "images/hunter.jpg"
   bio              : "Southeast University"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=3mCsqgIAAAAJ"
-  email            : "hunter-wrynn@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=VyLD9McAAAAJ&hl=zh-CN"
+  email            : "lslovezty1314@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Hunter-Wrynn"
+  github           : "https://github.com/KevinZhou6"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/haoxuan-ma-a50bba28a/"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  linkedin         : 
+  dblp             : "https://dblp.org/pid/88/8205-8.html"
+  orcid            : "https://orcid.org/0009-0002-7989-5160"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
