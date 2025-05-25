@@ -37,7 +37,6 @@ redirect_from:
 
 [**Project Page**](https://github.com/KevinZhou6/Gait-Analysis) <strong><span class='show_paper_citations' data='Hsxmwr0AAAAJ:'></span></strong>
 
-In summary, the main contributions of our work are listed as follows:
 - We developed a virtual environment simulation and gait detection system using VR and motion capture technology. This system can rapidly simulate various physical worlds in VEs and collect participants’ characteristics to create complete avatars that closely resemble the participants.
 - To increase the sense of embodiment, we customize each participant with two complete avatars that look like them but differ in age. One is a same-age avatar and the other is an old-age avatar
 - Subjective and objective measures are used to investigate our research questions. In subjective measurement, questionnaires are used to evaluate participants' feelings about the system and the VR experience. In objective measurement, we build a deep learning model to analyze the gait data. Moreover, the paired sample t-test with a 95\% confidence level is implemented to quantitatively analyze the gait parameters.
