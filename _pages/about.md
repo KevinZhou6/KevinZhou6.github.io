@@ -17,15 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior student at College of Computer Science and Technology, Southeast University, majoring in Artificial Intelligence, and will graduate from Southeast University with a B.S. in Engineering in 2025! Additionally, I am an incoming Master student at <a href='https://www.lamda.nju.edu.cn/CH.MainPage.ashx'>LAMDA</a>@Nanjing University, advised by Prof. <a href='https://www.lamda.nju.edu.cn/yehj/'>Hanjia Ye</a>.
+
 
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 I win the **President Scholarship（1%）**!
-- *2024.08*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024 Alignment Workshop! 
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024! 
-- *2023.07*: &nbsp;🎉🎉 I won a silver medal on Kaggle!
+- *2024.04*: &nbsp;🎉🎉 One paper is accepted by IEEE SMC24 oral!
+- *2022.12*: &nbsp;🎉🎉 I win the National Scholarship (1%)!
   
 # 📝 Publications 
 
