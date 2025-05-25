@@ -50,16 +50,14 @@ In summary, the main contributions of our work are listed as follows:
 
 
 # 🎖 Honors and Awards
-- *2024.11* President's Scholarship (top 1%) in Southeast University
+- *2024.11* BiYaDi Scholarship 
 - *2023.11* Zhishan Scholarship in Southeast University
-- *2023.09* Suzhou Industrial Scholarship in Southeast University
 - *2023.06* Merit Student in Southeast University.
+- *2022.12* National Scholarship (1%)!
 - *2022.11* Zhishan Scholarship in Southeast University
-- *2022.09* Lenovo Research Institute Scholarship in Southeast University
 
 
 # 📖 Educations
 - *2021.08 - 2025.05 (now)*, Southeast University, College of Computer Science and Technology.
  
-# 💻 Internships
-- *2024.07 - 2025.03*, [Shanghai AI Lab](https://www.shlab.org.cn/), China.
+
