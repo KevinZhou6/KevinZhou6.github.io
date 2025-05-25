@@ -22,7 +22,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉🎉 One paper is accepted by IEEE SMC24 oral!
+- *2024.04*: &nbsp;🎉🎉 One paper is accepted by IEEE SMC24 for oral presentation!
 - *2022.12*: &nbsp;🎉🎉 I win the National Scholarship (1%)!
   
 # 📝 Publications 
