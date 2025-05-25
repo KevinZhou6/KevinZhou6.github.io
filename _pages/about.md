@@ -27,7 +27,7 @@ redirect_from:
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC</div><img src='images/rldf.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC</div><img src='images/SMC.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Study on the Influence of Embodied Avatars on Gait Parameters in Virtual Environments and Real World](https://github.com/KevinZhou6/Gait-Analysis)
