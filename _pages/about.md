@@ -30,7 +30,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC</div><img src='images/SMC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Study on the Influence of Embodied Avatars on Gait Parameters in Virtual Environments and Real World](https://github.com/KevinZhou6/Gait-Analysis)
+[Study on the Influence of Embodied Avatars on Gait Parameters in Virtual Environments and Real World](https://ieeexplore.ieee.org/abstract/document/10831053)
 
 **Tianyi Zhou**, Ding Ding, Shengyu Wang, Chuhan Shi, Xiangyu Xu
 
