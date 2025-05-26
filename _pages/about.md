@@ -19,6 +19,8 @@ redirect_from:
 
 I am a senior student at College of Computer Science and Technology, Southeast University, majoring in  Computer Science and Technology and will graduate from Southeast University in 2025! Additionally, I am an incoming PhD student at <a href='https://bcmi.sjtu.edu.cn/'>BCMI</a>@Shanghai Jiao Tong University, advised by Prof. <a href='https://weilongzheng.github.io//'>Wei-Long Zheng</a>.
 
+My research interests include EEG analysis and Brain-Computer Interfaces, mainly foucs on brain decoding.
+
 
 
 # 🔥 News
