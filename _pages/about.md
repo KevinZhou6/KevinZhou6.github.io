@@ -52,9 +52,10 @@ My research interests include EEG analysis and Brain-Computer Interfaces, mainly
 
 # 🎖 Honors and Awards
 - *2024.11* BiYaDi Scholarship 
-- *2023.11* Zhishan Scholarship in Southeast University
-- *2023.06* Merit Student in Southeast University.
+- *2023.11* Huawei Intelligent Base Scholarship.
+- *2023.09* Selected as a top academic student (3%).
 - *2022.12* National Scholarship (1%)!
+- *2022.11* Merit Student in Southeast University.
 - *2022.11* Zhishan Scholarship in Southeast University
 
 
