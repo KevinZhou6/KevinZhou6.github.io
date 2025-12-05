@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior student at College of Computer Science and Technology, Southeast University, majoring in  Computer Science and Technology and will graduate from Southeast University in 2025! Additionally, I am an incoming PhD student at <a href='https://bcmi.sjtu.edu.cn/'>BCMI</a>@Shanghai Jiao Tong University, advised by Prof. <a href='https://weilongzheng.github.io//'>Wei-Long Zheng</a>.
+ I am now a PhD student at <a href='https://bcmi.sjtu.edu.cn/'>BCMI</a>@Shanghai Jiao Tong University, advised by Prof. <a href='https://weilongzheng.github.io//'>Wei-Long Zheng</a>. I obtained my Bachelor degree from  College of Computer Science and Technology, Southeast University, supervised by <a href='https://cs.seu.edu.cn/dingding/main.htm'>Ding Ding</a>
 
 My research interests include EEG analysis and Brain-Computer Interfaces, mainly foucs on brain decoding.
 
 
 
 # 🔥 News
+- *2025.06* :&nbsp;🎉🎉 Excellent Undergraduate Thesis Award in Southeast University!
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by IEEE SMC24 for oral presentation!
 - *2022.12*: &nbsp;🎉🎉 I win the National Scholarship (1%)!
   
@@ -61,6 +62,7 @@ My research interests include EEG analysis and Brain-Computer Interfaces, mainly
 
 
 # 📖 Educations
-- *2021.08 - 2025.05 (now)*, Southeast University, College of Computer Science and Technology.
+- *2025.09 - 2030.06*，Shanghai Jiao Tong University,  College of Computer Science and Technology.
+- *2021.08 - 2025.05*, Southeast University, College of Computer Science and Technology.
  
 
