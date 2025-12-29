@@ -64,5 +64,6 @@ My research interests include EEG analysis and Brain-Computer Interfaces, mainly
 # 📖 Educations
 - *2025.09 - 2030.06*，Shanghai Jiao Tong University,  College of Computer Science and Technology.
 - *2021.08 - 2025.05*, Southeast University, College of Computer Science and Technology.
- 
+
+
 
