@@ -31,6 +31,21 @@ My research interests include EEG analysis and Brain-Computer Interfaces, mainly
   
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/MindCine.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MindCine: Multimodal EEG-to-Video Reconstruction with Large-Scale Pretrained Models]()
+
+**Tian-Yi Zhou**\*, Xuan-Hao Liu\*, Bao-Liang Lu, Wei-Long Zheng†
+
+
+[**Project Page**](https://github.com/KevinZhou6/MindCine) <strong><span class='show_paper_citations' data='Hsxmwr0AAAAJ:'></span></strong>
+
+- We propose MindCine, a novel video reconstruction framework that combines multimodal joint learning and a CausalSeq architecture to decode semantic and perceptual features from EEG.
+- To address the challenge of data scarcity, we introduce a large-scale EEG model and leverage its strong feature learning capability to extract generic and robust EEG representations from limited data.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC</div><img src='images/SMC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -42,7 +57,7 @@ My research interests include EEG analysis and Brain-Computer Interfaces, mainly
 [**Project Page**](https://github.com/KevinZhou6/Gait-Analysis) <strong><span class='show_paper_citations' data='Hsxmwr0AAAAJ:'></span></strong>
 
 - We developed a virtual environment simulation and gait detection system using VR and motion capture technology. This system can rapidly simulate various physical worlds in VEs and collect participants’ characteristics to create complete avatars that closely resemble the participants.
-- To increase the sense of embodiment, we customize each participant with two complete avatars that look like them but differ in age. One is a same-age avatar and the other is an old-age avatar
+- To increase the sense of embodiment, we customize each participant with two complete avatars that look like them but differ in age. One is a same-age avatar and the other is an old-age avatar.
 </div>
 </div>
 
