@@ -24,6 +24,7 @@ My research interests include EEG analysis and Brain-Computer Interfaces, mainly
 
 
 # 🔥 News
+- *2026.01* :&nbsp;🎉🎉 One paper is accepted by ICASSP 2026!
 - *2025.06* :&nbsp;🎉🎉 Excellent Undergraduate Thesis Award in Southeast University!
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by IEEE SMC24 for oral presentation!
 - *2022.12*: &nbsp;🎉🎉 I win the National Scholarship (1%)!
@@ -42,7 +43,6 @@ My research interests include EEG analysis and Brain-Computer Interfaces, mainly
 
 - We developed a virtual environment simulation and gait detection system using VR and motion capture technology. This system can rapidly simulate various physical worlds in VEs and collect participants’ characteristics to create complete avatars that closely resemble the participants.
 - To increase the sense of embodiment, we customize each participant with two complete avatars that look like them but differ in age. One is a same-age avatar and the other is an old-age avatar
-- Subjective and objective measures are used to investigate our research questions. In subjective measurement, questionnaires are used to evaluate participants' feelings about the system and the VR experience. In objective measurement, we build a deep learning model to analyze the gait data. Moreover, the paired sample t-test with a 95\% confidence level is implemented to quantitatively analyze the gait parameters.
 </div>
 </div>
 
