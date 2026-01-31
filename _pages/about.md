@@ -31,7 +31,7 @@ My research interests include EEG analysis and Brain-Computer Interfaces, mainly
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/MindCine.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026 (CCF-B)</div><img src='images/MindCine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MindCine: Multimodal EEG-to-Video Reconstruction with Large-Scale Pretrained Models](https://arxiv.org/abs/2601.18192)
@@ -46,7 +46,7 @@ My research interests include EEG analysis and Brain-Computer Interfaces, mainly
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC</div><img src='images/SMC.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE SMC (CCF-C)</div><img src='images/SMC.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Study on the Influence of Embodied Avatars on Gait Parameters in Virtual Environments and Real World](https://ieeexplore.ieee.org/abstract/document/10831053)
