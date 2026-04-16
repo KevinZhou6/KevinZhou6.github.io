@@ -24,6 +24,7 @@ My research interests include EEG analysis and Brain-Computer Interfaces, mainly
 
 
 # 🔥 News
+- *2026.04* :&nbsp;🎉🎉 One paper is accepted by CogSci 2026!
 - *2026.01* :&nbsp;🎉🎉 One paper is accepted by ICASSP 2026!
 - *2025.06* :&nbsp;🎉🎉 Excellent Undergraduate Thesis Award in Southeast University!
 - *2024.04*: &nbsp;🎉🎉 One paper is accepted by IEEE SMC24 for oral presentation!
