@@ -19,7 +19,7 @@ redirect_from:
 
  I am now a PhD student at <a href='https://bcmi.sjtu.edu.cn/'>BCMI</a>@Shanghai Jiao Tong University, advised by Prof. <a href='https://weilongzheng.github.io//'>Wei-Long Zheng</a>. I obtained my Bachelor degree from  College of Computer Science and Technology, Southeast University, supervised by <a href='https://cs.seu.edu.cn/dingding/main.htm'>Ding Ding</a>
 
-My research interests include EEG analysis and Brain-Computer Interfaces, mainly foucs on brain decoding.
+Research Interests: My research centers on advancing Neural Decoding through the lens of Multimodal Learning, specifically focusing on the high-fidelity reconstruction of static imagery and dynamic video from EEG signals.
 
 
 
