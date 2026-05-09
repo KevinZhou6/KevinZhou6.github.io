@@ -42,13 +42,11 @@ Research Interests: My research centers on advancing Neural Decoding through the
         </div>
     </div>
     <div class='paper-box-text' markdown="1">
-        <!-- 移到文本区域的开头，并加一点下边距 -->
-        <div class="badge" style="margin-bottom: 10px; display: inline-block;">CogSci 2026 (CCF-B)</div>
-        <!-- 您的其他文字介绍 -->
 
 Multi-Granularity EEG Decoding: Bridging Object-Background Semantics and Temporal Motion for Video Reconstruction
 
 **Tian-Yi Zhou**\*, Zhenghao Xiao\*, Xuan-Hao Liu, Bao-Liang Lu, Wei-Long Zheng†
+<div class="badge">CogSci 2026 (CCF-B)</div>
 
 
 - We propose the M-STAR, a bio-inspired framework leveraging cognitive semantic decomposition and anchor-guided motion modeling to establish a robust new baseline for EEG-to-video reconstruction.
