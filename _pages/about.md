@@ -35,7 +35,7 @@ My research interests include EEG analysis and Brain-Computer Interfaces, mainly
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026 (CCF-B)</div><img src='images/MindCine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MindCine: Multimodal EEG-to-Video Reconstruction with Large-Scale Pretrained Models](https://arxiv.org/abs/2601.18192)
+[MindCine: Multimodal EEG-to-Video Reconstruction with Large-Scale Pretrained Models]([https://arxiv.org/abs/2601.18192](https://ieeexplore.ieee.org/document/11460466))
 
 **Tian-Yi Zhou**\*, Xuan-Hao Liu\*, Bao-Liang Lu, Wei-Long Zheng†
 
