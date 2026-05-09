@@ -32,6 +32,19 @@ My research interests include EEG analysis and Brain-Computer Interfaces, mainly
   
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2026 (CCF-B)</div><img src='images/M-STAR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-Granularity EEG Decoding: Bridging Object-Background Semantics and Temporal Motion for Video Reconstruction]
+
+**Tian-Yi Zhou**\*, Zhenghao Xiao\*, Xuan-Hao Liu, Bao-Liang Lu, Wei-Long Zheng†
+
+
+- We propose the M-STAR, a bio-inspired framework leveraging cognitive semantic decomposition and anchor-guided motion modeling to establish a robust new baseline for EEG-to-video reconstruction.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026 (CCF-B)</div><img src='images/MindCine.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
