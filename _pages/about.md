@@ -32,8 +32,19 @@ Research Interests: My research centers on advancing Neural Decoding through the
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2026 (CCF-B)</div><img src='images/M-STAR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2026 (CCF-B)</div><img src='images/M-STAR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> -->
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <div>
+            <!-- 标签已移走，图片重见天日 -->
+            <img src='images/M-STAR.png' alt="sym" width="100%">
+        </div>
+    </div>
+    <div class='paper-box-text' markdown="1">
+        <!-- 移到文本区域的开头，并加一点下边距 -->
+        <div class="badge" style="margin-bottom: 10px; display: inline-block;">CogSci 2026 (CCF-B)</div>
+        <!-- 您的其他文字介绍 -->
 
 Multi-Granularity EEG Decoding: Bridging Object-Background Semantics and Temporal Motion for Video Reconstruction
 
