@@ -77,7 +77,6 @@ Multi-Granularity EEG Decoding: Bridging Object-Background Semantics and Tempora
 </div>
 </div>
 
-
 # 🤝 Collaborative Publications
 
 
