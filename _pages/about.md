@@ -80,9 +80,9 @@ Multi-Granularity EEG Decoding: Bridging Object-Background Semantics and Tempora
 # 🤝 Collaborative Publications
 
 
-**MindCross: Fast New Subject Adaptation with Limited Data for Cross-subject Video Reconstruction from Brain Signals**  
+**MindCross: Fast New Subject Adaptation with Limited Data for Cross-subject Video Reconstruction from Brain Signals** [AAAI'2026]
+
 Xuan-Hao Liu, Yan-Kai Liu, **Tian-Yi Zhou**, Bao-Liang Lu, Wei-Long Zheng 
-*AAAI, 2026*
 
 
 
