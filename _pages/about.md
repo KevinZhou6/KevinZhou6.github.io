@@ -36,7 +36,7 @@ Research Interests: My research centers on advancing Neural Decoding through the
 <div class='paper-box-text' markdown="1">
 
 
-Multi-Granularity EEG Decoding: Bridging Object-Background Semantics and Temporal Motion for Video Reconstruction
+[Multi-Granularity EEG Decoding: Bridging Object-Background Semantics and Temporal Motion for Video Reconstruction](https://escholarship.org/content/qt0mq416k0/qt0mq416k0.pdf)
 
 **Tian-Yi Zhou**\*, Zhenghao Xiao\*, Xuan-Hao Liu, Bao-Liang Lu, Wei-Long Zheng†
 
