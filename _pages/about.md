@@ -86,7 +86,7 @@ Research Interests: My research centers on advancing Neural Decoding through the
 
 - **Replaying the Movie in Your Mind: Decoding Dynamic Visual Perception and Recall from EEG** [ICONIP'2026]()
 
-  Zikai Fang*, **Tian-Yi Zhou***, Xuan-Hao Liu, Yixi Li, Xiaoyu Xing, Yutong Pei, Bao-Liang Lu, Wei-Long Zheng 
+  Zikai Fang\*, **Tian-Yi Zhou**\*, Xuan-Hao Liu, Yixi Li, Xiaoyu Xing, Yutong Pei, Bao-Liang Lu, Wei-Long Zheng 
 
 # 🎖 Honors and Awards
 - *2025.06* Excellent Undergraduate Thesis Award in Southeast University
