@@ -80,11 +80,13 @@ Research Interests: My research centers on advancing Neural Decoding through the
 # 🤝 Collaborative Publications
 
 
-**MindCross: Fast New Subject Adaptation with Limited Data for Cross-subject Video Reconstruction from Brain Signals** [AAAI'2026]
+- **MindCross: Fast New Subject Adaptation with Limited Data for Cross-subject Video Reconstruction from Brain Signals** [AAAI'2026](https://ojs.aaai.org/index.php/AAAI/article/view/38814)
 
-Xuan-Hao Liu, Yan-Kai Liu, **Tian-Yi Zhou**, Bao-Liang Lu, Wei-Long Zheng 
+  Xuan-Hao Liu, Yan-Kai Liu, **Tian-Yi Zhou**, Bao-Liang Lu, Wei-Long Zheng 
 
+- **Replaying the Movie in Your Mind: Decoding Dynamic Visual Perception and Recall from EEG** [ICONIP'2026]()
 
+  Zikai Fang*, **Tian-Yi Zhou***, Xuan-Hao Liu, Yixi Li, Xiaoyu Xing, Yutong Pei, Bao-Liang Lu, Wei-Long Zheng 
 
 # 🎖 Honors and Awards
 - *2025.06* Excellent Undergraduate Thesis Award in Southeast University
