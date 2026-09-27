@@ -56,7 +56,7 @@ Research Interests: My research centers on advancing Neural Decoding through the
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2026 (CCF-B)</div><img src='images/M-STAR.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2026 (CCF-B)</div><img src='images/M-STAR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -99,7 +99,7 @@ Research Interests: My research centers on advancing Neural Decoding through the
 - We developed a virtual environment simulation and gait detection system using VR and motion capture technology. This system can rapidly simulate various physical worlds in VEs and collect participants’ characteristics to create complete avatars that closely resemble the participants.
 - To increase the sense of embodiment, we customize each participant with two complete avatars that look like them but differ in age. One is a same-age avatar and the other is an old-age avatar.
 </div>
-</div>
+</div> -->
 
 # 🤝 Collaborative Publications
 
