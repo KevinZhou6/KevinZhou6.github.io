@@ -47,7 +47,7 @@ Research Interests: My research centers on advancing Neural Decoding through the
 
 [EntiNeuro: Multi-Entity Visual Decoding and Video Reconstruction from EEG Signals](https://kevinzhou6.github.io/)
 
-**Tian-Yi Zhou**\*, Zhuo-Xuan Du\* Zhenghao Xiao, Xuan-Hao Liu, Bao-Liang Lu, Wei-Long Zheng<†
+**Tian-Yi Zhou**\*, Zhuo-Xuan Du\* Zhenghao Xiao, Xuan-Hao Liu, Bao-Liang Lu, Wei-Long Zheng†
 
 
 [[Paper](https://kevinzhou6.github.io/)] [[Project](https://kevinzhou6.github.io/)] [[Code](https://kevinzhou6.github.io/)]
@@ -55,6 +55,66 @@ Research Interests: My research centers on advancing Neural Decoding through the
   </div>
 </div>
 
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CogSci 2026</div>
+      <img src='images/M-STAR.png' alt="EntiNeuro" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+[Multi-Granularity EEG Decoding: Bridging Object-Background Semantics and Temporal Motion for Video Reconstruction](https://escholarship.org/content/qt0mq416k0/qt0mq416k0.pdf)
+
+**Tian-Yi Zhou**\*, Zhenghao Xiao\*, Xuan-Hao Liu, Bao-Liang Lu, Wei-Long Zheng†
+
+
+[[Paper](https://escholarship.org/content/qt0mq416k0/qt0mq416k0.pdf)]
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICASSP 2026</div>
+      <img src='images/MindCine.png'' alt="EntiNeuro" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+[MindCine: Multimodal EEG-to-Video Reconstruction with Large-Scale Pretrained Models](https://ieeexplore.ieee.org/document/11460466)
+
+**Tian-Yi Zhou**\*, Xuan-Hao Liu\*, Bao-Liang Lu, Wei-Long Zheng†
+
+
+[[Paper](https://ieeexplore.ieee.org/document/11460466)] [[Code](https://github.com/KevinZhou6/MindCine))]
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE SMC 2024</div>
+      <img src='images/SMC.png' alt="EntiNeuro" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+[Study on the Influence of Embodied Avatars on Gait Parameters in Virtual Environments and Real World](https://ieeexplore.ieee.org/abstract/document/10831053)
+
+**Tianyi Zhou**, Ding Ding†, Shengyu Wang, Chuhan Shi, Xiangyu Xu
+
+
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10831053)] [[Code](https://github.com/KevinZhou6/Gait-Analysis))]
+
+  </div>
+</div>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2026 (CCF-B)</div><img src='images/M-STAR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
