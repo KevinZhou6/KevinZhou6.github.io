@@ -32,6 +32,27 @@ Research Interests: My research centers on advancing Neural Decoding through the
   
 # 📝 Publications 
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Paper</div>
+      <img src='images/M-STAR.png' alt="EntiNeuro" width="100%">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+[EntiNeuro: Multi-Entity Visual Decoding and Video Reconstruction from EEG Signals](https://kevinzhou6.github.io/)
+
+**Tian-Yi Zhou**<sup>*</sup>, Zhuo-Xuan Du<sup>*</sup>, Zhenghao Xiao, Xuan-Hao Liu, Bao-Liang Lu, Wei-Long Zheng<sup>†</sup>
+
+
+[[Paper](https://kevinzhou6.github.io/)] [[Project](https://kevinzhou6.github.io/)] [[Code](https://kevinzhou6.github.io/)]
+
+  </div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2026 (CCF-B)</div><img src='images/M-STAR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
