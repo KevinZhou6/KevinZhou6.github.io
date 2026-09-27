@@ -39,7 +39,7 @@ Research Interests: My research centers on advancing Neural Decoding through the
   <div class='paper-box-image'>
     <div>
       <div class="badge">Under Review</div>
-      <img src='images/EntiNeuro.svg' alt="EntiNeuro" width="100%">
+      <img src='images/EntiNeuro.png' alt="EntiNeuro" width="100%">
     </div>
   </div>
 
