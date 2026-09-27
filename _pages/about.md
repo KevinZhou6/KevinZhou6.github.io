@@ -39,7 +39,7 @@ Research Interests: My research centers on advancing Neural Decoding through the
   <div class='paper-box-image'>
     <div>
       <div class="badge">Under Review</div>
-      <img src='images/M-STAR.png' alt="EntiNeuro" width="100%">
+      <img src='images/EntiNeuro.svg' alt="EntiNeuro" width="100%">
     </div>
   </div>
 
@@ -80,7 +80,7 @@ Research Interests: My research centers on advancing Neural Decoding through the
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICASSP 2026</div>
-      <img src='images/MindCine.png'' alt="EntiNeuro" width="100%">
+      <img src='images/MindCine.png' alt="EntiNeuro" width="100%">
     </div>
   </div>
 
