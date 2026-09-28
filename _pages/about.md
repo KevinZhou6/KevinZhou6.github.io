@@ -50,7 +50,7 @@ Research Interests: My research centers on advancing Neural Decoding through the
 **Tian-Yi Zhou**\*, Zhuo-Xuan Du\* Zhenghao Xiao, Xuan-Hao Liu, Bao-Liang Lu, Wei-Long Zheng†
 
 
-[[Project](https://kevinzhou6.github.io/EntiNeuro)]
+
 
   </div>
 </div>
