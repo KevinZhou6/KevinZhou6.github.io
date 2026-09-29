@@ -91,7 +91,7 @@ Research Interests: My research centers on advancing Neural Decoding through the
 **Tian-Yi Zhou**\*, Xuan-Hao Liu\*, Bao-Liang Lu, Wei-Long Zheng†
 
 
-[[Paper](https://ieeexplore.ieee.org/document/11460466)] [[Code](https://github.com/KevinZhou6/MindCine))]
+[[Paper](https://ieeexplore.ieee.org/document/11460466)] [[Code](https://github.com/KevinZhou6/MindCine)]
 
   </div>
 </div>
@@ -111,7 +111,7 @@ Research Interests: My research centers on advancing Neural Decoding through the
 **Tianyi Zhou**, Ding Ding†, Shengyu Wang, Chuhan Shi, Xiangyu Xu
 
 
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10831053)] [[Code](https://github.com/KevinZhou6/Gait-Analysis))]
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10831053)] [[Code](https://github.com/KevinZhou6/Gait-Analysis)]
 
   </div>
 </div>
