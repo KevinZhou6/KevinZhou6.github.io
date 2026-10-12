@@ -168,7 +168,7 @@ Research Interests: My research centers on advancing Neural Decoding through the
 
   Xuan-Hao Liu, Yan-Kai Liu, **Tian-Yi Zhou**, Bao-Liang Lu, Wei-Long Zheng 
 
-- **Replaying the Movie in Your Mind: Decoding Dynamic Visual Perception and Recall from EEG** [ICONIP'2026]()
+- **Replaying the Movie in Your Mind: Decoding Dynamic Visual Perception and Recall from EEG** [ICONIP'2026](https://arxiv.org/pdf/2610.13120v1)
 
   Zikai Fang\*, **Tian-Yi Zhou**\*, Xuan-Hao Liu, Yixi Li, Xiaoyu Xing, Yutong Pei, Bao-Liang Lu, Wei-Long Zheng 
 
